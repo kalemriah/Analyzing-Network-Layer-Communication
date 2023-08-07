@@ -58,11 +58,8 @@ Now that you’ve inspected the traffic log and identified trends in the traffic
 
 ●Explain the current status of the issue.
 
+●Provide the suspected root cause of the problem.
+
+●List the next steps needed to troubleshoot and resolve the issue.
+
 [Cybersecurity incident report network traffic analysis RESPONSE.pdf](https://github.com/kalemriah/Analyzing-Network-Secuirty/files/12285739/Cybersecurity.incident.report.network.traffic.analysis.RESPONSE.pdf)
-
-
-Provide the suspected root cause of the problem.
-
-List the next steps needed to troubleshoot and resolve the issue.
-
-Record your responses in part two of the cybersecurity incident repo
