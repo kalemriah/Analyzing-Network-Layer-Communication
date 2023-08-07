@@ -1,4 +1,4 @@
-# Analyzing-Network-Secuirty
+# Analyzing-Network-Layer-Communication
 A fake scenario where a cybersecurity analyst is tasked with determining which network protocol was affected during a cyber incident using tools such as tcpdump and an ICMP
 
 <h2>Review the scenario below. Then complete the step-by-step instructions.</h2>
